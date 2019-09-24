@@ -51,7 +51,8 @@ class Avatar extends Component{
             <div className="mainPage">
             <h1 className="tc">{this.state.name}</h1>
             {AllAvatarData} 
-        <button onClick={()=>this.titlechange()} className="f6 link dim br-pill ba bw2 ph3 pv2 mb2 dib dark-blue tc">Subscribe</button>
+            <br/>
+           <button onClick={()=>this.titlechange()} className="f6 link dim br-pill  ph3 pv2 mb2 dib dark-blue tc">Subscribe</button>
        </div>
         );
     }
