@@ -1,8 +1,7 @@
 *{margin:0;
-  padding:0;}
-
+padding:0;}
 @import url('https://fonts.googleapis.com/css?family=Lobster|Roboto+Slab&display=swap');
-.home_body{
+.AboutStyle{
     width: 100%;
     height : auto;
     margin:auto;
@@ -10,13 +9,12 @@
     font-family: 'Lobster', cursive;
     background-color: crimson  ;
 }
-.home_body h1{
+.AboutStyle h2{
     margin: 0;
     padding:20px 0;
     text-align: center;       
 }
-.home_body p {
-  margin: 0;
-  padding:20px 0;
-  text-align: center;   
+.avatar img{
+    width:200px; height: 200px;
+  
 }
