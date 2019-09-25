@@ -5,7 +5,7 @@ import {Link} from  'react-router-dom';
 const Contact = () =>{
     return (
         <div className="ContactStyle">
-        <h1>Welcome To Contact Page</h1>
+        <h1>Welcome To Contact us </h1>
       
         <div className="Contact-form-Style">
         <main className="pa2 ma2 black-80 "/>
