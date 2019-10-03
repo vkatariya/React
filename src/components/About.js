@@ -1,6 +1,6 @@
 import React from 'react';
 import '../components/About.css'
-
+import 'tachons';
 const About = () => {
     return (
         <div className="AboutStyle">
